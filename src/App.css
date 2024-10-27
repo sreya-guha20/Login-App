@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(245, 200, 207);
+  background-color: rgb(28, 23, 23);
   font-family: Arial, sans-serif;
   display: flex;
   justify-content: center;
@@ -39,7 +39,7 @@ input {
 }
 
 input.input-error {
-  border-color: red;
+  border-color: rgb(180, 154, 154);
 }
 
 button {
@@ -57,7 +57,7 @@ button:hover {
 }
 
 .error-message {
-  color: red;
+  color: firebrick;
   font-size: 0.9em;
   text-align: left;
   margin-top: -8px;
